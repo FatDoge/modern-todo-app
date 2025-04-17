@@ -1,23 +1,25 @@
 # Modern Todo App
 
-一个具有现代化 UI 和流畅动画效果的待办事项应用。
+[中文文档](./README.zh-CN.md)
 
-## 特性
+A modern todo list application with beautiful UI and smooth animations.
 
-- 🎨 现代化 UI 设计，采用渐变背景和精美卡片布局
-- ✨ 流畅的添加/删除动画效果
-- 📱 完全响应式布局，支持各种设备
-- 🔄 本地数据持久化，使用 localStorage
-- 🎯 支持全部/活跃/已完成任务筛选
-- ✅ 任务完成状态实时切换
-- 🗑️ 优雅的任务删除动画
-- 📊 实时任务统计信息
-- 🎭 暗色模式支持
-- ⌨️ 完整的键盘可访问性支持
-- 🔍 空状态和加载状态处理
-- 🚀 基于 Vite 的快速开发体验
+## Features
 
-## 技术栈
+- 🎨 Modern UI design with gradient background and elegant card layout
+- ✨ Smooth add/delete animations
+- 📱 Fully responsive layout for all devices
+- 🔄 Local data persistence using localStorage
+- 🎯 Filter tasks by all/active/completed
+- ✅ Real-time task completion toggle
+- 🗑️ Elegant task deletion animation
+- 📊 Real-time task statistics
+- 🎭 Dark mode support
+- ⌨️ Full keyboard accessibility support
+- 🔍 Empty state and loading state handling
+- 🚀 Fast development experience with Vite
+
+## Tech Stack
 
 - React 18
 - TypeScript
@@ -25,32 +27,32 @@
 - Vite
 - Lucide Icons
 
-## 开始使用
+## Getting Started
 
-1. 克隆仓库
+1. Clone the repository
 ```bash
 git clone https://github.com/FatDoge/modern-todo-app.git
 cd modern-todo-app
 ```
 
-2. 安装依赖
+2. Install dependencies
 ```bash
 npm install
 ```
 
-3. 启动开发服务器
+3. Start the development server
 ```bash
 npm run dev
 ```
 
-4. 打开浏览器访问 http://localhost:3000
+4. Open your browser and visit http://localhost:3000
 
-## 构建
+## Build
 
 ```bash
 npm run build
 ```
 
-## 许可
+## License
 
 MIT
